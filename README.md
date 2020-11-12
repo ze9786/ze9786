@@ -10,11 +10,15 @@
   <img align="left" alt="Zelina's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
 **About Me**
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning Kotlin, JavaScript
 - 💬 Ask me about photography 📷
 - 📫 How to reach me: [@ze9786]
+
+## Latest tweet
+[<img src="https://hcti.io/v1/image/a7d46066-5691-4ab3-a074-7755e1797b51" width="400">](https://twitter.com/zelm0/status/1326256312242483201)
 
 **Language and Tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
@@ -34,5 +38,5 @@
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ze9786&show_icons=true&theme=gotham" alt="ze9786" />
-  <p align="center"><img src="https://github.com/ze9786/ze9786/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/ze9786/ze9786?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/ze9786/ze9786?style=flat-square&labelColor=343b41"/></p>
+  <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/ze9786/ze9786?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/ze9786/ze9786?style=flat-square&labelColor=343b41"/></p>
 
