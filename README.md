@@ -15,10 +15,8 @@
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning Kotlin, JavaScript
 - 💬 Ask me about photography 📷
-- 📫 How to reach me: [@ze9786]
+- 📫 How to reach me: [@ze9786][www.github.com/ze9786]
 
-## Latest tweet
-[<img src="https://hcti.io/v1/image/a7d46066-5691-4ab3-a074-7755e1797b51" width="400">](https://twitter.com/zelm0/status/1326256312242483201)
 
 **Language and Tools**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
