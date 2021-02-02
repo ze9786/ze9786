@@ -28,6 +28,10 @@
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   
+**Programming Language that I want to learn**
+<img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img alt="angularjs" src="https://img.shields.io/badge/-AngularJs-E23237?style=flat-square&logo=angularjs&logoColor=white" />
+<img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 
 
 📊 **This Week I Spent My Time On:**
