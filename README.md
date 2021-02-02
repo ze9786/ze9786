@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning Kotlin, JavaScript
 - 💬 Ask me about photography 📷
-- 📫 How to reach me: [www.zelinato.com]
+- 📫 How to reach me: www.zelinato.com
 
 
 **Language and Tools**
