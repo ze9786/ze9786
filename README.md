@@ -13,6 +13,8 @@
 
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+<img alt="adobephotoshop" src="https://img.shields.io/badge/-AdobePhotoshop-0095D5?style=flat-square&logo=adobephotoshop&logoColor=white" />
+
 - 💬 Ask me about photography 📷
 - 📫 How to reach me: www.zelinato.com
 
@@ -23,6 +25,8 @@
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+<img alt="dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<img alt="flutter" src="https://img.shields.io/badge/-Flutter-0095D5?style=flat-square&logo=flutter&logoColor=white" />
 <img alt="firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
@@ -32,6 +36,7 @@
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="angularjs" src="https://img.shields.io/badge/-AngularJs-E23237?style=flat-square&logo=angularjs&logoColor=white" />
 <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img alt="swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 
 
 📊 **This Week I Spent My Time On:**
