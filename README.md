@@ -1,5 +1,6 @@
 ### Hi there 👋 I am using GitHub 😴
 
+**About Me**
 <a href="https://twitter.com/zelm0">
   <img align="left" alt="Z | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -9,9 +10,6 @@
 <a href="https://www.instagram.com/z3stagram/">
   <img align="left" alt="Zelina's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-
-
-**About Me**
 
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning Kotlin, JavaScript
