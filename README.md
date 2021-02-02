@@ -11,7 +11,8 @@
 </a>
 
 
-##About Me
+
+**About Me**
 
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning Kotlin, JavaScript
