@@ -30,6 +30,8 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+
   
 **Programming Language that I want to learn**
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
