@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
-<img alt="adobephotoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-0095D5?style=flat-square&logo=adobe_photoshop&logoColor=white" />
+<img alt="adobephotoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-0095D5?style=flat-square&logo=AdobePhotoshop&logoColor=white" />
 
 - 💬 Ask me about photography 📷
 - 📫 How to reach me: www.zelinato.com
