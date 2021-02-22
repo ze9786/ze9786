@@ -2,17 +2,6 @@
 
 **About Me**
 
-<a href="https://twitter.com/zelm0">
-  <img align="left" alt="Z | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/zelinato">
-  <img align="left" alt="Zelina's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/z3stagram/">
-  <img align="left" alt="Zelina's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
-
-
 - 🔭 I’m currently working on a mobile app📱
 - 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 
