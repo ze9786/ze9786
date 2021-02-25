@@ -3,7 +3,8 @@
 **About Me**
 
 - 🔭 I’m currently working on a mobile app📱
-- 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+- 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img alt="angularjs" src="https://img.shields.io/badge/-AngularJs-E23237?style=flat-square&logo=angularjs&logoColor=white" />
+
 
 - 💬 Ask me about photography 📷
 - 📫 How to reach me: www.zelinato.com
@@ -26,7 +27,6 @@
   
 **Programming Language that I want to learn**
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="angularjs" src="https://img.shields.io/badge/-AngularJs-E23237?style=flat-square&logo=angularjs&logoColor=white" />
 <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 <img alt="swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 
