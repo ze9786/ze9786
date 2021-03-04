@@ -24,7 +24,7 @@
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img alt="bootstrap4" src="https://img.shields.io/badge/-Bootstrap-602C50?style=flat-square&logo=bootstrap4&logoColor=white" />
+<img alt="bootstrap4" src="https://img.shields.io/badge/-Bootstrap4-602C50?style=flat-square&logo=bootstrap&logoColor=white" />
 
 
   
