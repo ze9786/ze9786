@@ -3,7 +3,8 @@
 **About Me**
 
 - 🔭 I’m currently working on a mobile app📱
-- 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img alt="angular" src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white" />
+- 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+ <img alt="angular" src="https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white" />
 
 
 - 💬 Ask me about photography 📷
@@ -23,11 +24,12 @@
 <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white" />
 <img alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img alt="android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img alt="bootstrap4" src="https://img.shields.io/badge/-Bootstrap4-3DDC84?style=flat-square&logo=android&logoColor=white" />
+
 
   
 **Programming Language that I want to learn**
 <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
 <img alt="swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
 
 
