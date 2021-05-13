@@ -35,13 +35,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-![mysql](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C++&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white)
   
