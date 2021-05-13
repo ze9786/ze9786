@@ -60,5 +60,5 @@
   
   **Top Languages Used**
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze9786&count_private=true&theme=blueberry)  
+<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze9786&count_private=true&theme=blueberry)  </p>
 
