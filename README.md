@@ -56,8 +56,10 @@
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ze9786&show_icons=true&theme=gotham" alt="ze9786" />
-
-Top Languages Used
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze9786&count_private=true&theme=blueberry)
+Top Languages Used
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ze9786&count_private=true&theme=blueberry" />
+
+
 
