@@ -56,9 +56,8 @@
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ze9786&show_icons=true&theme=gotham" alt="ze9786" />
-  <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/ze9786/ze9786?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/ze9786/ze9786?style=flat-square&labelColor=343b41"/></p>
+
+**Top Languages Used**
   
-  **Top Languages Used**
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze9786&count_private=true&theme=blueberry)
+ <p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ze9786&count_private=true&theme=blueberry)
 
