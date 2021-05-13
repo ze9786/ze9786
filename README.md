@@ -3,7 +3,8 @@
 **About Me**
 
 - 🔭 I’m currently working on a mobile app📱
-- 🌱 I’m currently learning <img alt="kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" /> <img alt="php" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=PHP&logoColor=white" />
+- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" /> <img alt="php" src="https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=PHP&logoColor=white" />
 
 - 💬 Ask me about photography 📷
 - 📫 How to reach me: www.zelinato.com
