@@ -9,7 +9,6 @@
 ![php](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=PHP&logoColor=white)
 
 - 💬 Ask me about photography 📷
-- 📫 How to reach me: www.zelinato.com
 
 
 **Language and Tools**
